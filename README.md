@@ -1,4 +1,5 @@
-Netflix Movies Analysis
+# Netflix Movies Analysis
+
 This Excel dashboard analyzes 50 Netflix movies using: 
 - IMDb Rating distribution 
 - Genre popularity vs IMDb rating 
